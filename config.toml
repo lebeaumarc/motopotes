@@ -1,0 +1,27 @@
+baseurl = "http://www.motopotes.be/"
+title = "Motopotes.be"
+author = "Panoramix"
+languageCode = "fr_FR"
+copyright = "Copyright (c) 2015, Marc Lebeau; all rights reserved."
+theme = "redlounge"
+keywords= ["motopotes","moto","copains","balades","amicale","voyages"]
+description = "Une amicale de motards"
+
+[params]
+	sidebartitle = "Motopotes.be"
+	sidebartagline = "Une amicale de motards"
+	banner = "/img/logo.jpg"
+	bannerfill = "true"
+	dateFormat = "2006-01-02"
+[[menu.main]]
+	    name = "Forum"
+	    url = "/forum"
+[[menu.main]]
+      name = "balades"
+      url = "/balades"
+[[menu.main]]
+      name = "voyages"
+      url = "/voyages"
+[[menu.main]]
+   name = "Souvenirs"
+   url = "/posts"
