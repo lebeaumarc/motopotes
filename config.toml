@@ -4,7 +4,7 @@ author = "Panoramix"
 languageCode = "fr_FR"
 copyright = "Copyright (c) 2015, Marc Lebeau; all rights reserved."
 theme = "redlounge"
-keywords= ["motopotes","moto","copains","balades","amicale","voyages"]
+keywords= ["motopotes","moto","copains","balades","amicale","voyages","motoplaisir","moto-plaisir","moto plaisir","bierges","brabant wallon"]
 description = "Une amicale de motards"
 
 [params]
@@ -25,3 +25,6 @@ description = "Une amicale de motards"
 [[menu.main]]
    name = "Souvenirs"
    url = "/posts"
+[[menu.main]]
+	 name = "Galerie Photos"
+	 url = "/gallery"
