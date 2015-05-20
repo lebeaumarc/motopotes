@@ -45,6 +45,15 @@ Pour le logement :
 -  les hotels "roi-soleil" http://www.roi-soleil.fr/ de Strasbourg et de Colmar
 
 
+La première mouture de roadbook pour le voyage en Alsace se trouve [ici](https://www.dropbox.com/sh/o75l5o164bws9pd/AAAU3vdnSZQH4SEt9SG6L20Fa?dl=0/AAAU3vdnSZQH4SEt9SG6L20Fa?dl=0)
+
+- 1 jour (3/7): Wavre -Strasbourg avec visite du rocher de Dabo, nuit à strasbourg
+- 2 eme jour (4/7): tourisme : la route des vins revisitée, nuit à Colmar
+- 3 eme jour : deux boucles pour apprécier les virolos. Si la première prend trop de temps, on peut rejoindre l'hôtel en prenant l'autoroute, nuit à colmar
+- 4 eme jour : Retour mixte : jolies routes, puis autoroute, nuit chez soi
+
+Les arrêts sont déjà proposés pour les 2 premiers jours ... encore à faire pour les 2 derniers jours.
+
 ## Participants
 - Panoramix (2personnes)
 - Serge
@@ -56,3 +65,8 @@ Pour le logement :
 - Mika
 - Wagi (2x)
 - Eric "Ganesh" Lion
+- Papyloup
+- nounours
+- Roger De Kempeneer
+- bahiti
+- Paneuro
