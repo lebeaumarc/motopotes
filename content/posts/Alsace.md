@@ -19,6 +19,12 @@ tags = [
 
 3-4-5-6 Juillet 2015
 
+*Départ à 9h45 de L'AC Bierges*
+
+et
+
+à 10h45 de l'aire du bois de Tellin (E411)
+
 ## Organisateur
 
 Panoramix
@@ -30,6 +36,7 @@ vins (tres pittoresque).
 Ensuite de colmar à colmar : La route des crêtes et les ballons d'alsace.
 
 on passe par :
+
 - le col du bonhomme,
 - le rocher de dabo ( http://www.ot-dabo.fr/ )
 - la cascade du nideck (a faire a pied, tres tres belle promenade)
@@ -45,28 +52,34 @@ Pour le logement :
 -  les hotels "roi-soleil" http://www.roi-soleil.fr/ de Strasbourg et de Colmar
 
 
-La première mouture de roadbook pour le voyage en Alsace se trouve [ici](https://www.dropbox.com/sh/o75l5o164bws9pd/AAAU3vdnSZQH4SEt9SG6L20Fa?dl=0/AAAU3vdnSZQH4SEt9SG6L20Fa?dl=0)
+Le roadbook pour le voyage en Alsace se trouve [ici](https://www.dropbox.com/sh/o75l5o164bws9pd/AAAU3vdnSZQH4SEt9SG6L20Fa?dl=0/AAAU3vdnSZQH4SEt9SG6L20Fa?dl=0)
 
 - 1 jour (3/7): Wavre -Strasbourg avec visite du rocher de Dabo, nuit à strasbourg
 - 2 eme jour (4/7): tourisme : la route des vins revisitée, nuit à Colmar
 - 3 eme jour : deux boucles pour apprécier les virolos. Si la première prend trop de temps, on peut rejoindre l'hôtel en prenant l'autoroute, nuit à colmar
 - 4 eme jour : Retour mixte : jolies routes, puis autoroute, nuit chez soi
 
-Les arrêts sont déjà proposés pour les 2 premiers jours ... encore à faire pour les 2 derniers jours.
+## Dans le détail:
 
-## Participants
-- Panoramix (2personnes)
-- Serge
-- Merlin
-- Michel Pipe
-- Rogexe
-- Jean-Pierre
-- Kristian
-- Mika
-- Wagi (2x)
-- Eric "Ganesh" Lion
-- Papyloup
-- nounours
-- Roger De Kempeneer
-- bahiti
-- Paneuro
+*Départ à 9h45 de L'AC Bierges*
+
+- 1er jour
+
+![carte1erjour](/img/alsace-1.jpg)
+
+- 2eme jour
+
+![carte2emejour](/img/alsace-2.jpg)
+
+- 3eme jour
+
+![carte3emejour](/img/alsace-3.jpg)
+
+- 4eme jour
+
+![carte4emejour](/img/alsace-4.jpg)
+
+
+## Diaporama
+
+Les photos se trouvent [ici](/gallery/picture.php?/4710/category/91)

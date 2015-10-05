@@ -12,10 +12,12 @@ organisateur = "Bufaloo"
 +++
 
 ## Organisateur
-Bufaloo
+Bufaloo (Christian)
 
 ## Date
 Le 05 et 06 Septembre 2015
+
+Départ à Bierges **le 05 septembre à 08H00** un point de rencontre est possible si convenu au préalable.
 
 ## Description
 
@@ -23,10 +25,10 @@ Chers(res) motopotes,
 
 Je souhaite organiser un WK de grande balade passant par la France, la traversée du Luxembourg d'Ouest en Est, le Eifel en revenant par Monschau Eupen Durbuy et Bierges.
 
-- **Le premier jour ferait un kilométrage de 387 KM : +/- 6 heures + les arrêts.**
+- **Le premier jour ferait un kilométrage de 404 KM : +/- 6 heures + les arrêts.**
 
 
-- **Le deuxième jour ferait un kilométrage de 322 KM : +/- 5 heures + les arrêts.**
+- **Le deuxième jour ferait un kilométrage de 326 KM : +/- 5 heures + les arrêts.**
 
 Il va de soit que vu le kilométrage certe nécessaire pour voir autant de pays en un laps de temps les arrêts seront possibles et sont obligatoires mais ils seront limités au minimun tout les 100 km avec drink de maximun 30 minutes de préférence en station service qui permettra de ravitailler également sa monture.
 
@@ -40,11 +42,12 @@ Cordialement.
 Bufaloo ( Christian )
 
 ## Hébergement
-![hotel](http://blick-ins-tal.de/assets/images/haus02.jpg)
-Nuit prévue dans l’[hôtel](http://blick-ins-tal.de/html/fr/01-0indexfr.html) réservable sur lien ci-dessous au prix de 38€/PD et 49€/DP en single et 64€/PD et 86€/DP en double.
-La réservation peut être annulé jusqu’au 05 septembre 18H00 sans aucun frais donc aucun risque.
-[cliquez ici pour réserver la chambre](
-http://www.booking.com/hotel/de/landgasthaus-blick-ins-tal.fr.html?aid=304142;sid=421414542ef61d0304acec73f7ef70d1;dcid=4;checkin=2015-09-05&checkout=2015-09-06&dist=0&group_adults=2&group_children=0&group_rooms=1&type=total&)
+Nuit prévue dans l’[hôtel](http://feuerhart.sinkroon.be/fr#!/home) réservable sur lien ci-dessous au prix de 48€/PD en single et 86€/PD  en double.
+La réservation peut être annulée jusqu’au 01 septembre 23H59 sans aucun frais donc aucun risque
+[cliquez ici pour réserver la chambre](https://www.booking.com/hotel/de/feuerhart.fr.html?sid=101ebff7f9bcdec8c8161e7b566d8d7c;dcid=5)
+
+J’ai deux pré-réservation en chambre single disponible.
+Pour les amateurs me contacter sur cdr_be at outlook.com
 
 ## Participation
 
